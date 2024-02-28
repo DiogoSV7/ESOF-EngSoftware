@@ -223,3 +223,80 @@ Desenvolvedores decidem :
 
   - eXtreme programming é um agile method que integra um range de boas práticas de engenharia e de management de projetos, integrando lançamentos frequentes, evolução contínua do design,...
   - Parte forte do eXtreme programming é o desenvolvimento de automated tests antes de um feature ser criado.
+
+## Requirements Engineering
+
+- Requirements engineering (RE) : processo de estudar customer and user needs para chegar a uma definição do sistema, hardware e necessidades de software.
+
+- Software requirement: propriedade que deve ser exibida pelo software desenvolvido ou adotado para resolver um determinado problema
+
+### Principais dificuldades de RE
+
+- Garantir requisitos, comunicação e entendimento
+- Gerir requisitos de evolução
+
+### Tipos de requisitos
+
+$ Functional requirements : descrever as funções que o software deve ser capaz de executar
+$ Nonfunctional requirements : são os requisitos que devem agir para chegar a uma solução
+
+### Características de qualidade
+
+1. Functionality suitability
+2. Eficiência de performance
+3. Reliabilidade
+4. Usabilidade
+5. Compatibilidade
+6. Maintability
+7. Portabilidade
+8. Segurança
+
+### Fonte de requisitos: stakeholders
+
+*Stakeholders são a fonte principal de requisitos. Pessoas que serão afetadas pelo sistema que têm uma direta ou indireta influência na elaboração de requisitos.*
+
+### Atividades de RE
+
+ - Elicitation : interagir com stakeholders e com outras sources para entender as suas necessidades e requisitos.
+ - Analysis : organizar e aceder à informação coletada, para chegar a uma lista de prioridade dos requisitos
+ - Specification : produzir documentação dos requisitos com um nível apropriado de detalhe, dependendo do contexto
+ - Validation : make sure que a documentação dos requisitos permite chegar aos objetivos do projeto
+
+!!!! SLIDES CONTÊM INFORMAÇÃO MAIS ESPECÍFICA SOBRE ESTES 4 TIPOS DE ATIVIDADE E EXEMPLOS REAIS, CONSULTAR
+
+### Artefactos de RE
+
+ - Lista de requisitos (OBRIGATÓRIO)
+ - Modelo de sistemas (USE CASE AND DOMAIN MODELS)
+ - Protótipos e Mock-ups de interfaces de utilizadores
+ - Testes de aceitação
+
+   *EXEMPLOS*:Scrum, XP, Watterfall model
+
+### User Stories
+
+   *A user story is a promise for a conversation*. Ou seja, é uma forma leve de se demonstrar uma necessidade de um software.
+   Deve incluir, "WHO", "WHAT", "WHY"
+
+### User Stories - INVEST
+
+   - Independent
+   - Negotiable
+   - Valuable
+   - Estimable
+   - Small
+   - Testable
+
+   EXEMPLO:
+
+   As an automobile driver, i want to be able to remotely start my car so that it will be warmed up by the time i get to it.
+
+### Acceptance tests
+
+São test cases definidos pelos clientes para decidir se um sistema ou uma implementação de feature pode ser aceitada . Nos agile processes, um ou mais acceptance tests podem ser definidos para cada uma das user stories.
+
+ - Formato comum é Behaviour-Driven-Development(BDD):
+ - GIVEN [initial context]
+ - WHEN [event occur(s)]
+ - THEN [ensure some outcomes or postconditions]
+
