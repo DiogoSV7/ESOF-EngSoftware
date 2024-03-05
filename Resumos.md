@@ -300,3 +300,129 @@ São test cases definidos pelos clientes para decidir se um sistema ou uma imple
  - WHEN [event occur(s)]
  - THEN [ensure some outcomes or postconditions]
 
+## Software Processes: Agile
+
+### Vuca World
+
+* Volatilidade - mudança rápida e imprevisível é a sua natureza
+* Incerteza - o presente não é claro e o futuro é incerto
+* Complexidade - muitos fatores interconectados são trazidos para o jogo, com a sua confusão tudo se pode tornar muito complexo
+* Ambiguidade - falta de claridade ou consciência do que a realidade é
+
+*O QUE AS PESSOAS QUEREM É*
+1. Serviço/Produto com alta qualidade
+2. Grande produtividade de construção
+3. Uma boa previsão dos resultados finais
+
+### The Iron Triangle
+
+PARA SE ALCANÇAR *QUALIDADE* (centro do triângulo) TEMOS DE INTERCALOR 3 FATORES (3 vértices do triângulo):
+
+1. Recursos - budget, custo, ...
+2. Schedule - tempo que demora, ...
+3. Scope - features, funcionalidades, ...
+
+### Software Processes: Scrum
+
+* Scrum é um framework
+* Baseado em : Artifacts, Meetings and Roles
+* Artifacts : backlog do produto, ...
+* Meetings : daily meeting, ...
+* Roles : Team, product-owner, ...
+
+### Fundações do Scrum
+
+* Trust
+* Foco
+* Transparência
+* Coragem
+* Respeito
+* Empenho
+
+### Equipa
+
+* 5-9 elementos
+* Programadores, testers, user experience designers
+* Members devem ser full-time
+* São self-organizing
+* Membership deve alterar apenas entre sprints (1-4 semanas)
+
+### Scrum Master
+
+* Representa o management para o projeto
+* Remove impedimentos
+* Garante que a equipa está totalmente operacional
+* Proteje a equipa de interferências externas
+
+### Product Owner
+
+* Define features do produto
+* Decide release date e conteúdo
+* Aceita ou Rejeita o resulta do trabalho
+
+### Github Projects: Board & Columns
+
+*PRODUCT BACKLOG* 
+
+* Ordered list de itens que contêm todos os epics, user stories, e todos os work items que necessários para a terminação do projeto
+* A ordem é sempre feita da prespetiva do customer, baseado num ratio de valor e esforço
+* Cada item deve ser percebido tanto por não technical personal como todos os outros
+
+
+*SPRINT BACKLOG*
+
+* Subset de itens (epic, user stories, work items) retirados do topo do Product Backlog, baseado no esforço, estimado em ser capaz de implementar durante a iteração. Itens devem ser facilmente entendidos pela equipa.
+
+
+*IN PROGRESS*
+
+* Itens a ser desenvolvidos no momento e apenas no momento
+* Itens devem ter membros da equipa assigned
+* Work in Progress (WIP) não deve ser maior do que o número de elementos, ou pares, da equipa
+
+
+*DONE*
+
+* Itens implementados e testados pela equipa mas ainda não aceites pelos clientes
+
+
+*DONE, DONE, DONE*
+
+* Itens aceites pelos clientes, já válidos e corretos
+
+### Estimativa
+
+* Não conseguimos estimar o desconhecido, ou seja, existem coisas que não sabemos que não sabemos
+* Então, devemos estimar quais são os requisitos numa feature-by-feature, ao contrário de uma estimativa overall do projeto
+
+### Valor e Esforço
+
+ - Valor : Vamos utilizar o MoSCoW method para dar assign valor a cada Product backlog item
+ - Must have, Should have, Could have, Will not Have (yet)
+
+
+ - Esforço : Vamos usar o método de Fibonacci para determinar um esforço estimado para cada Product Backlog
+ - 1,2,3,4,5,6,7,8,..
+
+### Evolução do Scope
+
+* Realidade é mais complexa que o scope creep consegue lidar
+* Scope changes para tentar encontrar o que o cliente realmente quer
+
+### Sprint Review
+
+- Equipa apresenta oq conseguiu alcançar ao longo do sprint
+- Tipicamente tem uma forma demo para demonstrar os novos features
+- Informal
+- A equipa inteira participa
+
+### Práticas essenciais do Scrum
+
+* Organizar o trabalho em cíclos curtos
+* O management não interrompe a equipa num working cycle
+* Equipa reporta ao cliente e não ao manager
+* Equipa decide quanto trabalho eles conseguem fazer numa iteração
+* Equipa mede a sua própria performance
+* Definir goals antes dos ciclos começarem e através de user stories
+
+  
