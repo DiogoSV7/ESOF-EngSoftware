@@ -130,6 +130,33 @@ TOPO : 5 : **Necessidade de Realização**
 
 ## Efeitos do Processo Competitivo
 
+**AUMENTA** - tensão e agressividade, intolerância e preconceitos
+
+**DIMINUI** - capacidade de ouvir, perceção da razão dos outros e inteligência prática dos interlocutores
+
+CONCLUSÃO -> Devemos procurar diminuir a frequência destas atitudes na comunicação com os interlocutores, já que os seus efeitos sobre o clima relacional são negativos
+
+## Efeitos do Processo Resolutivo
+ 
+**AUMENTA** - tolerância relativamente às divergências, capacidade de ouvir os outros e de perceber as suas razões, inteligência prática dos locutores
+
+CONCLUSÃO -> Devemos procurar aumentar a frequência destas atitudes em situações de comunicação profissional já que estas facilitam o desenvolvimento de uma relação interpessoal construtiva
+
+<img width="556" alt="Captura de ecrã 2024-03-16, às 16 38 16" src="https://github.com/DiogoSV7/ESOF-EngSoftware/assets/145665382/e1ca90a0-0ed9-4b27-98cb-fa2711aea845">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
