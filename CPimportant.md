@@ -144,7 +144,60 @@ CONCLUSÃO -> Devemos procurar aumentar a frequência destas atitudes em situaç
 
 <img width="556" alt="Captura de ecrã 2024-03-16, às 16 38 16" src="https://github.com/DiogoSV7/ESOF-EngSoftware/assets/145665382/e1ca90a0-0ed9-4b27-98cb-fa2711aea845">
 
+## Entrevista de "Assistência Técnico-Comercial"
 
+### Sua Razão de ser 
+
+* Prestar serviços que ultrapassem as expectativas do cliente
+
+* Otimizar a relação fornecedor-cliente e melhorar a divulgação dos serviços
+
+* Intensificar a orientação para o cliente adotar uma atitude cada vez mais proativa, promovendo a satisfação do cliente como fator-chave para o desenvolvimento da empresa
+
+### Do que se trata
+
+* Aproveitando e benefeciando do contato direto com as necessidades de cada cliente que resulta da intervençao técnica efetuada, sugerindo novos produtos com interesse negocial significativo para o futuro
+
+### Quando Intervir
+
+* Quando se faz uma **instalação/demonstração/reparação**, não só é imp a eficiência da intervenção técnica, mas também, a eficácia ao nível do levantamento de novas possibilidades de negócios
+
+* Quando se vai fazer uma destas 3 operações a um cliente deve iniciar-se com uma observação cuidada da situação e do seu respetivo registo, desenvolvendo-se hipóteses para o problema ser resolvido
+
+### Como Intervir
+
+* Adotar uma postura profissional, procurando durante a assistência técnica adaptar o seu comportamento aos diferentes tipos de clientes e agir com uma forte intencionalidade comercial orientada para a satisfação do cliente
+
+## O saber Calar-se
+
+*O melhor argumento é o que é formulado pelo cliente: ele está forçosamente de acordo consigo mesmo*
+
+* Para um bom atendimento é necessário primeiro escutar bem o cliente, depois, quando ele acaba de se exprimir fazê-lo falar mais. Só assim o cliente terá a impressão que o seu problema foi tomado em consideração. É muito importante fazer com que o cliente diga muito precisamente qual é o seu desejo, a sua necessidade e quais são as suas motivações
+
+**ENTREVISTA LIVRE** 
+
+* Trata de se fazer o interlocutor falar, intervindo o menos possível e, certamente, nunca lhe cortando a palavra.
+* É o entrevistado que se deve exprimir.
+* Condições base para o êxito são:
+
+      1. Olhar de frente para a pessoa interrogada, fixar o seu olhar. O cliente percebe interesse demonstrado pelo o que ele diz. NÃO FALAR
+      2. Mostrar interesse acenando com a cabeça e através de encorajamentos mímicos, não tomar a palavra
+      3. Anotar mentalmente todas as informações importantes
+      4. Se o cliente parar de falar, dar-lhe cinco segundos antes de intervir
+      5. Se o entrevistado não retoma a palavra por si próprio, pronunciar uma onomatopeia aprovativa. Repetir as suas últimas palavras se isso for insuficiente
+
+**DIFERENTES TIPOS DE CLIENTES**
+
+* SIM
+* SIM, MAS
+* O DESCONFIADO
+* O SOMBRIO
+* O AMIGO
+* O ESPECIALISTA
+* OS BONS E OS MAUS CLIENTES
+
+
+  
 
 
 
