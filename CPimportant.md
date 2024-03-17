@@ -188,16 +188,71 @@ CONCLUSÃO -> Devemos procurar aumentar a frequência destas atitudes em situaç
 
 **DIFERENTES TIPOS DE CLIENTES**
 
-* SIM
-* SIM, MAS
-* O DESCONFIADO
-* O SOMBRIO
-* O AMIGO
-* O ESPECIALISTA
-* OS BONS E OS MAUS CLIENTES
+* SIM - Diz sempre que sim e guarda o "não" para o fim. Devemos procurar fazê-lo reformular as suas aprovações e encerrar todos os pontos de acordo
 
+* SIM, MAS - Este adora discutir, tem tempo a perder. Sujeitá-lo rapidamente a perguntas fechadas e a reformulações em "eco" e prenda-o nas suas contradições. Temos de recuperar vantagem, porque o que ele procura é destabilizá-lo
 
-  
+* O DESCONFIADO - Não acredita em nós, procura falhas nas nossas expressões, para verificar se o estamos a enganar. Para ganhar temos de obter a sua confiança. Reformular tudo o que ele diz, para demonstrar que tomamos em consideração e vamos resolver o seu problema
+
+* O SOMBRIO - É agressivo, mal disposto e desagradável. Tem medo de não ser tomado em consideração e pensa em dominar a situação sendo detestável. Seja calma, fale suave e lentamente, seja educado e reformule as suas palavras. Sorria para ele ficar distabilizado
+
+* O AMIGO - O que ele vem procurar é calor humano. Temos de o fazer concentrar no seu assunto, colocando questões precisas e fechadas para ele não divergir. Obrigue-o a tomar posição sobre as suas afirmações e chegue rapidamente à conclusão
+
+* O ESPECIALISTA - Veio para se ouvir falar. Sendo o seu objetivo humilhar-nos pela sua técnica e explicar-nos o nosso trabalho. Temos de elogiá-lo, quando estiver cansado de o ouvir devemos "imobilizá-lo", fazendo -o tomar uma decisão e conduzir rapidamente a uma conclusão
+
+* OS BONS E OS MAUS CLIENTES - Todos os clientes podem vir a ser bons clientes. O cliente que nos fez perder tempo, que colocou perguntas impertinentes e absurdas, lembrar-se-á que foi bem recebido, e terá vontade de voltar
+
+## Entrevista de Apoio ou Resolução de Problemas
+
+**RAZÃO DE SER:**
+
+* Ajudar o interlocutor a resolver um problema
+* Orientá-lo e aconselhá-lo
+* Favorecer nele um processo de auto-aperfeiçoamento
+
+**DE QUE SE TRATA:**
+
+* Pode tratar-se tanto de problemas pessoais como profissionais
+
+**QUANDO DEVEMOS INTERVIR:**
+
+* Quando o interlocutor exprime uma reclamação
+* Quando o interlocutor exprime um pedido de ajuda, ou manifesta implicitamente o desejo de ajuda
+* Quando o problema tem consequências sobre a qualidade de trabalho ou o clima na equipa
+
+**COMO INTERVIR?:**
+
+CARL ROGERS denomina o "estado de empatia" a atitude compreensiva que condiciona o êxito de uma entrevista
+
+A empatia implica a combinação de três procedimentos:
+
+   1. **DESCENTRALIZAR-SE** - deixar provisoriamente de lado os seus preconceitos, a sua maneira própria de ver as coisas e o seu espírito crítico
+
+   2. **IMPLICAR-SE** - fazer um esforço para "entrar" no universo do interlocutor, constituindo as reformulações um sinal exterior deste esforço
+
+   3. **PERMANECER EXTERIOR** - manter uma certa neutralidade, embora sendo calorosa e aceitando incondicionalmente o interlocutor, preservar a boa distância da facilitação
+
+## O Triângulo Dramático
+
+**INCONVENIENTE, PERIGOSO, A EVITAR**
+
+Não devemos tomar a nosso cargo o problema do interessado. Outro risco é desencadear a comunicação a partir de uma posição de desespero extrema e de ataque do género.
+
+* Para verdadeiramente ajudar alguém, temos de absolutamente evitar entrar num destes 3 papéis do "TRIÂNGULO DRAMÁTICO".
+
+<img width="236" alt="Captura de ecrã 2024-03-17, às 16 32 54" src="https://github.com/DiogoSV7/ESOF-EngSoftware/assets/145665382/907ddc33-98e5-4a59-a14a-52e974b7f018">
+
+**PALAVRAS QUE CONVIDAM A FALAR:**
+
+As pessoas sentem dificuldades de se implicar e têm medo de se impor aos outros, então esperam por um convite explícito
+
+* Quer falar do assunto?
+* Posso ajudá-lo nesse problema?
+* Ajudá-lo-ia falar no assunto?
+
+DEVEMOS DEPOIS DISTO ESCUTAR ATIVAMENTE DEPOIS DE FAZER ESTAS PERGUNTAS
+
+<img width="442" alt="Captura de ecrã 2024-03-17, às 16 36 02" src="https://github.com/DiogoSV7/ESOF-EngSoftware/assets/145665382/d5941e08-b203-476a-bea7-ee53ba54d7f7">
 
 
 
