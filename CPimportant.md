@@ -37,19 +37,19 @@ TOPO : 5 : **Necessidade de Realização**
 ## Caracterização das atitudes comportacionais (PORTER)
 
 **Atitude de Avaliação** - Expressão de censura por atos feios. Induz sentimentos de culpa em relação ao comportamento passado. Manifesta desejo de controlar o comportamento dos indivíduos
-   - "Não devia ter feito isso"
+   * "Não devia ter feito isso"
 
 **Atitude de Orientação** - Exprime uma intenção de controlar diretamente o comportamento presente ou futuro dos indivíduos. Induz a dependência de uma lei ou de um dever
-    - "Deve proceder desta maneira"
+   * "Deve proceder desta maneira"
 
 **Atitude de Apoio** - Resposta "simpática". Manifesta uma afetividade concordante com os outros, como dizer, "estou do seu lado"
-    - "Concordo", "Não desanime"
+   * "Concordo", "Não desanime"
 
 **Atitude de Interpretação** - Explicitação do significado da comunicação do outro. É no fundo, uma atitude de orientação que expressa a análise feita ao comportamento do outro
-    - "O que você sente é um complexo de culpa"
+   * "O que você sente é um complexo de culpa"
 
 **Atitude de Exploração** - Visa a recolha de informações dos outros. Exprime diretamente a necessidade de saber. Tipicamente, são as perguntas, diretas ou indiretas, assim como afirmações sobre a nossa própria carência de informações
-    - "Não estou a perceber bem", "Podia fornecer mais dados"
+   * "Não estou a perceber bem", "Podia fornecer mais dados"
 
 **Atitude de Compreensão** - Centra-se no outro e nos seus sentimentos, mas sem que por isso vibremos com ele, sem exprimirmos os nossos sentimentos. Emocionalmente, é uma atitude benevolente
   3 Características principais :
